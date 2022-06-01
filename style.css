@@ -126,13 +126,14 @@ textarea:focus {
   position: absolute;
   color: #0a3871;
   font-size: 14px;
-  line-height: 150%;
+  line-height: 200%;
   cursor: pointer;
   border-radius: 24px;
   border: solid 1px #0a3871;
   top: 555px;
   left: 1018px;
   display: none;
+  align-items: right;
 }
 
 .author {
